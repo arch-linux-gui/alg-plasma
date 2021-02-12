@@ -2,8 +2,8 @@
 
 #set -e
 
-sudo rm -r out/ 
-sudo rm -r work/
+sudo rm -rvf out/ 
+sudo rm -rvf work/
 
 
 echo "D O N E!"
