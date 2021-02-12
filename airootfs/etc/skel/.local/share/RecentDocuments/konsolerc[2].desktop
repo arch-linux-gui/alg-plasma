@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=application-x-desktop
-Name=konsolerc
-Type=Link
-URL[$e]=file:$HOME/.config/konsolerc
-X-KDE-LastOpenedWith=org.kde.kate
