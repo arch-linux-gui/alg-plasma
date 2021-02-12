@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Tela circle icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1359276</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>13115</downloads>
+  <installedfile>/home/demonkiller/.local/share/icons/Tela-circle/*</installedfile>
+  <installedfile>/home/demonkiller/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <id>1359276</id>
+  <releasedate>2021-01-20</releasedate>
+  <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
+Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924" target="_blank" rel="nofollow">https://www.pling.com/p/1279924&lt;/a>&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/4/2/0/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/4/2/0/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTEyMDE5NTgiLCJvIjoiMSIsInMiOiJmMzdhOGE1MTE2NThlZDc0MjllYzllYTI5NjI0YTlkYmFhY2M4MTczNDU0YjcxYWVjMTRmNzQ4YjgxNDQxMmI2YWNlMTAwYjkzNGRmMGM0YjYzYWZmNWZmYmZkNGM3Y2I0MzkwOGM0M2M4MzllODk3ZjQ0YjViNDkyODk1YzY3ZSIsInQiOjE2MTMwNDA0NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTM3LjE1NS42NCJ9.GmCpdN5d8xTQkeJk8F74cLfoMxYFUlSvSBuS_TNb7oU/01-Tela-circle.tar.xz</payload>
+  <tags>linux,unix,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
