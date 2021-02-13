@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Qogir colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298431</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>41177</downloads>
+  <installedfile>/home/demonkiller/.local/share/color-schemes/Qogir.colors</installedfile>
+  <installedfile>/home/demonkiller/.local/share/color-schemes/Qogirlight.colors</installedfile>
+  <installedfile>/home/demonkiller/.local/share/color-schemes/Qogirdark.colors</installedfile>
+  <id>1298431</id>
+  <releasedate>2020-04-02</releasedate>
+  <summary>&lt;strong> Qogir KDE Plasma Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+For better looking please use this with:&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> --Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU4MDgxNDciLCJvIjoiMSIsInMiOiI5ZTZlZGZjNjAwZjhhM2ZlM2M3MGI4NWEzZDkwNzAzNWE4YzdjZDhiM2M5ZTc0NjEwYjY2N2IwNzc5YWQwMTkwYmQ3OTEyNDlhYzgxNjc1ODVhMmNhOGRiZmU2ZWVkYWI5ODZiMTY0NWRiMDI4MTE5NDM3NThmZjA3ZmIzMzUwOSIsInQiOjE2MTMyMDA1NjIsInN0ZnAiOm51bGwsInN0aXAiOiI0My4yNDIuMjA4LjIyNCJ9.2ucz4ZlhuJ5JJVcGiOV6kjq4wvusljCJC9grh3KQcT0/Qogir.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
