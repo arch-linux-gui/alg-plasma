@@ -1,0 +1,75 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 479, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'XCURSOR_THEME=McMojave-cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/demonkiller/.gtkrc:/home/demonkiller/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/demonkiller/.gtkrc-2.0:/home/demonkiller/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/arch-config:@/tmp/.ICE-unix/530,unix/arch-config:/tmp/.ICE-unix/530' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/arch-config:@/tmp/.ICE-unix/530,unix/arch-config:/tmp/.ICE-unix/530' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 687 terminated.
+kdeinit5: PID 680 terminated.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/6f for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/86 for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/54 for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/b3 for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/54 for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/e4 for shader cache (No such file or directory)---disabling.
+Failed to create /home/demonkiller/.cache/mesa_shader_cache/64 for shader cache (No such file or directory)---disabling.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 743 terminated.
+kdeinit5: PID 744 terminated.
+kdeinit5: PID 740 terminated.
+kdeinit5: PID 784 terminated.
+kdeinit5: PID 738 terminated.
+kdeinit5: PID 745 terminated.
+kdeinit5: PID 739 terminated.
+kdeinit5: PID 746 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 675 terminated.
+kdeinit5: PID 678 terminated.
+kdeinit5: PID 815 terminated.
+kdeinit5: PID 812 terminated.
+kdeinit5: PID 811 terminated.
+kdeinit5: PID 813 terminated.
+kdeinit5: PID 814 terminated.
+kdeinit5: PID 816 terminated.
+kdeinit5: PID 723 terminated.

@@ -1,0 +1,12 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Timeout=20
+
+[Greeter]
+Theme=com.github.vinceliuice.Qogir-dark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Path/
+SlidePaths=/home/demonkiller/.local/share/wallpapers,/usr/share/wallpapers

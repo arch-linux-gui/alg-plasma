@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Qogir Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298357</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>78</rating>
+  <downloads>27803</downloads>
+  <installedfile>/home/demonkiller/.local/share/plasma/desktoptheme/Qogir-dark</installedfile>
+  <id>1298357</id>
+  <releasedate>2020-05-06</releasedate>
+  <summary>&lt;strong> Qogir KDE Plasma Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+ For better looking please use this pack with:&lt;br />
+&lt;br />
+&lt;strong>Qogir Kvantum theme&lt;/strong>: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg3NjEzNDQiLCJvIjoiMSIsInMiOiJiMDM2OWZlMWQ4YzVmMDIxNzkyZjE3NmIyNmUyOWIwOGFkMDQ3ZjhkNGEwZTExNTZkOWZkYTUxY2Y1ZjIyOGJlZTJlNzY2YjMwNjE0MDEwZDIwOTE0ZDI3ZWQ1OGIxZDY2YzZjMTJiMDkxYWNkZDQwYWE3ZGM4NWI4OGJiY2EyMSIsInQiOjE2MTM0NjkyMDIsInN0ZnAiOm51bGwsInN0aXAiOiI0NS4yNTAuMjQ5LjIyOSJ9.k1g4xW6svzn6AeYcyetPhQWF9edlETIBuHiFAreYoVw/Qogir-dark.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
