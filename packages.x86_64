@@ -105,37 +105,23 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI desktop Packages
-plasma-meta
-packagekit-qt5
+#Arch Linux GUI KDE Plasma
+plasma
+xorg
+sddm
 bash-completion
 networkmanager
-sddm
 
-#System Utilities
+#System Utilities for ALG
 konsole
+kate
 dolphin
 dolphin-plugins
-kate
 xdg-user-dirs
-gwenview
-kcalc
-okular
-discover
+spectacle
 
-#Utilities 
-firefox
-
-#installer
-calamares
+#Installer
 grub
+calamares
 alg-calamares-config
-
-#theme
-qogir-gtk-theme
-gtk3
-gtk-engines
-gtk-engine-murrine
-
-#icon
-tela-circle-icon
+os-prober
