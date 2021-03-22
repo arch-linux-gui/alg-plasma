@@ -1,7 +1,7 @@
 set -e
 
 git init
-git config --global user.name "demonkiller"
+git config --global user.name "demonkiller2"
 git config --global user.email "hiranyagarbh7@gmail.com"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
