@@ -1,5 +1,7 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
+
+#archiso
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -111,6 +113,8 @@ xorg
 sddm
 bash-completion
 networkmanager
+linux-headers
+base-devel
 
 #System Utilities for ALG
 konsole
@@ -119,9 +123,37 @@ dolphin
 dolphin-plugins
 xdg-user-dirs
 spectacle
+ark
+filelight
+kcalc
+neofetch
 
 #Installer
 grub
 calamares
 alg-calamares-config
 os-prober
+
+#browser
+firefox
+
+#AUR & Installers
+yay
+discover
+packagekit-qt5
+
+#office suite
+libreoffice-fresh
+okular
+ttf-ms-fonts
+
+#video
+vlc
+zoom
+
+#Themes & Icons
+tela-circle-icon
+#gtk2
+#gtk-engines
+#gtk-engine-murrine
+#qogir-gtk-theme
