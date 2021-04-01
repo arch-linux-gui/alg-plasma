@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
-iso_label="ARCH_$(date +%Y%m)"
+iso_name="archlinux-gui"
+iso_label="ARCH_GUI_$(date +%Y%m)"
 iso_publisher="Arch Linux <https://archlinux.org>"
 iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
