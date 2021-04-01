@@ -134,7 +134,7 @@ calamares
 alg-calamares-config
 os-prober
 
-#browser
+#Browser
 firefox
 
 #AUR & Installers
@@ -142,18 +142,14 @@ yay
 discover
 packagekit-qt5
 
-#office suite
+#Office Suite
 libreoffice-fresh
 okular
 ttf-ms-fonts
 
-#video
+#Video
 vlc
 zoom
 
-#Themes & Icons
+#Icons
 tela-circle-icon
-#gtk2
-#gtk-engines
-#gtk-engine-murrine
-#qogir-gtk-theme
