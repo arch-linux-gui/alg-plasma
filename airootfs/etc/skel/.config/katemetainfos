@@ -1,0 +1,71 @@
+[file:///etc/pam.d/sddm]
+Bookmarks=
+Checksum=343650e67df9e70a5d465a14e0e44862a167eb5c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,59,32.904
+URL=file:///etc/pam.d/sddm
+
+[file:///etc/pam.d/sddm-autologin]
+Bookmarks=
+Checksum=b42991e3814eb69b52983d040770d850adc05089
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,59,24.667
+URL=file:///etc/pam.d/sddm-autologin
+
+[file:///etc/pam.d/sddm-greeter]
+Bookmarks=
+Checksum=44e209e9046109b3ad9312a23bc210d5cd3486ef
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,59,18.088
+URL=file:///etc/pam.d/sddm-greeter
+
+[file:///etc/sddm.conf.d/kde_settings.conf]
+Bookmarks=
+Checksum=32479b65aa7cf2d97eb11d16cb6ff9a54b26dc36
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,58,31.262
+URL=file:///etc/sddm.conf.d/kde_settings.conf
+
+[file:///home/archlinuxgui/arch-linux-gui/airootfs/etc/sddm.conf.d/kde_settings.conf]
+Bookmarks=
+Checksum=32479b65aa7cf2d97eb11d16cb6ff9a54b26dc36
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,58,42.54
+URL=file:///home/archlinuxgui/arch-linux-gui/airootfs/etc/sddm.conf.d/kde_settings.conf
+
+[file:///home/archlinuxgui/arch-linux-gui/packages.x86_64]
+Bookmarks=
+Checksum=4147a18aef747e99bbf6499cb9c9e80d7fdde818
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,4,1,14,54,0.345
+URL=file:///home/archlinuxgui/arch-linux-gui/packages.x86_64
