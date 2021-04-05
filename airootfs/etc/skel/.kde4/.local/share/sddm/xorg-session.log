@@ -1,0 +1,42 @@
+cannot convert KDE_FULL_SESSION argument to STRING or COMPOUND_TEXT.
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 781, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/archlinuxgui/.gtkrc:/home/archlinuxgui/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/archlinuxgui/.gtkrc-2.0:/home/archlinuxgui/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=McMojave-cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/test:@/tmp/.ICE-unix/817,unix/test:/tmp/.ICE-unix/817' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/test:@/tmp/.ICE-unix/817,unix/test:/tmp/.ICE-unix/817' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 992 terminated.
+kdeinit5: PID 989 terminated.
+kdeinit5: PID 986 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: PID 1908 terminated.
+kdeinit5: PID 1907 terminated.
+kdeinit5: PID 1909 terminated.

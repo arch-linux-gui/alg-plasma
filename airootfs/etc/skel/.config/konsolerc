@@ -1,0 +1,12 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[MainWindow]
+HDMI-1 Height 1600x900=395
+HDMI-1 Width 1600x900=1592
+HDMI-1 Window-Maximized 1600x900=true
+HDMI-1 XPosition 1600x900=0
+HDMI-1 YPosition 1600x900=29
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMdAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

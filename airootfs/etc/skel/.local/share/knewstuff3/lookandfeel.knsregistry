@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Qogir Look-and-Feel Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298345</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>38425</downloads>
+  <installedfile>/home/archlinuxgui/.local/share/plasma/look-and-feel/com.github.vinceliuice.Qogir-dark</installedfile>
+  <id>1298345</id>
+  <releasedate>2020-05-07</releasedate>
+  <summary>&lt;strong> Qogir KDE Plasma Look-and-Feel Theme &lt;/strong>&lt;br />
+-------------------------------&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+-------------------------------&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+ For better looking please use this pack...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/5/5/c535d032365f8683386bc129751da7c04283.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg4MzgyMTkiLCJvIjoiMSIsInMiOiIwNGRiOTFmNDhkMGIzMDlkOWEyODM5YWNhNDYzZWU3ZDFkOWFjZGI3MjUzMDVhZDcyMDAzMzRkMjFhOTJmYTBmMzdkOTdjMzJmNTg4NzY1MjdmOTVjYTE2NGJjYzNkN2UxNGNiYTg1OTU2NDQ1NjIwMTljMGNkMjhjYjEwZWRmOCIsInQiOjE2MTc1NDM5NjUsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.UVQaYmAnn4TzzHKBWTA9OSKicISJDF2Vq-v__VNmL3c/01-com.github.vinceliuice.Qogir-dark.tar.xz</payload>
+  <tags>kde,linux,look-and-feel,gplv3,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

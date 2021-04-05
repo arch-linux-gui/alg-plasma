@@ -1,0 +1,18 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1074657374000161755721900000008270005
+clientId2=1074657374000161755722400000008270007
+count=2
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1074657374000161755721900000008270005_1617557469_641383
+restartCommand2=
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=archlinuxgui
+userId2=archlinuxgui

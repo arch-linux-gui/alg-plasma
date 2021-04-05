@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Tela circle icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1359276</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>3394</downloads>
+  <installedfile>/home/archlinuxgui/.local/share/icons/Tela-circle/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <id>1359276</id>
+  <releasedate>2021-03-30</releasedate>
+  <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
+Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924" target="_blank" rel="nofollow">https://www.pling.com/p/1279924&lt;/a>&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/4/2/0/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/4/2/0/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTcxMTcxMDYiLCJvIjoiMSIsInMiOiI2NDA2ZjkyYWQyOTJkMmU0YzUxZTljZTA4MTU0YjJjNjkyZjY0NDMxM2MzZjk5ZjhiMmI5MGE3ZjA5NWM1Mzk5Y2M2NDE3ZTQ0MjZhMzMyNTE0Nzg4ODE0YWMzNzFkMWNiNTY3NWJlZTAyODQ4ZTNkMzgxMWJkYTQwZWU5MWE3MSIsInQiOjE2MTc1NDQwNTksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.Tj41Q4lV5s8DmdbBpttkqpgERYcaj-R_yqkLDhmmW2w/01-Tela-circle.tar.xz</payload>
+  <tags>linux,gplv3,icon-theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Qogir icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1296407</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>20916</downloads>
+  <installedfile>/home/archlinuxgui/.local/share/icons/Qogir/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/icons/Qogir-dark/*</installedfile>
+  <id>1296407</id>
+  <releasedate>2021-03-08</releasedate>
+  <summary>This is a colorful and flat design icon theme with obvious borders.&lt;br />
+----------&lt;br />
+In order to provide a consistent experience across all desktops, &lt;br />
+I designed this theme to support all popular desktops.&lt;br />
+----------&lt;br />
+ wish you guys like it!&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTUyMDc3MzMiLCJvIjoiMSIsInMiOiIxM2E3MjEwMzcyMTM1MjYxZjYxNDNiZDEyYzAzNWEzYTAyNDRjNTNhZWE0MWFkOTdjMTI2NzU5MjRhYjAzNDYyN2UwZTY3M2I3N2Q4MTAyNTA4ZDk2MDBkMjBiMzQyY2MyZDdiMTYyZGM0MGFiZDEwZjE0ZjU1NzNlMGY1OGYyNiIsInQiOjE2MTc1NDM5OTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.hsquYzPBWhEoGO9ym_Gt6kks3uZNTq9cjf-E1ws2vcY/01-Qogir.tar.xz</payload>
+  <tags>original-product,unix,gplv3,icon-theme,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

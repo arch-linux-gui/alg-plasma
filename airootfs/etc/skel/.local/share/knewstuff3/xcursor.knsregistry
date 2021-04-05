@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>McMojave cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1355701</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>368542</downloads>
+  <installedfile>/home/archlinuxgui/.icons/McMojave-cursors/*</installedfile>
+  <id>1355701</id>
+  <releasedate>2020-01-30</releasedate>
+  <summary>This is an x-cursor theme inspired by macOS &lt;br />
+based on capitaine-cursors &lt;a href="http:// https://github.com/keeferrourke/capitaine-cursors " target="_blank" rel="nofollow"> https://github.com/keeferrourke/capitaine-cursors &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/c/1/a/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA0MDIzODkiLCJvIjoiMSIsInMiOiJiNWIzNjA2NWI0MDlkY2I5ZjI5MjBmOWZlOTA1Yjk4MGMwYmE0MjY3ZGIwZTQ2YTZiNjg2MTNkMDM2MzNmNWJjMDRhNWY1NjQxYmRkOGUwNTkxY2VmOTFhMDE1M2RmNzFiZjgzMWZkM2I4MmZmMTM1M2UxMzcxNDk1NjQ3ZWQ5MCIsInQiOjE2MTc1NDQwOTUsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.hzMnugIoAkaK147_nfxGy3XXqKwqioKdUiCPo8cT6fs/McMojave-cursors.tar.xz</payload>
+  <tags>cursor,linux,gplv3,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

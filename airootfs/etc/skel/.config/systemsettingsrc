@@ -1,0 +1,13 @@
+[MainWindow]
+HDMI-1 Height 1600x900=696
+HDMI-1 Width 1600x900=1012
+HDMI-1 Window-Maximized 1600x900=true
+HDMI-1 XPosition 1600x900=0
+HDMI-1 YPosition 1600x900=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=kcalc,vlc,firefo

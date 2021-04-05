@@ -1,0 +1,9 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=com.github.vinceliuice.Qogir-dark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/real-wood/real-wood.jpg
+SlidePaths=/home/archlinuxgui/.local/share/wallpapers,/usr/share/wallpapers
