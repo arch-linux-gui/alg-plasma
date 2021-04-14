@@ -14,8 +14,4 @@ This project aims to help people install Arch Linux with a graphical installer, 
  </ul>
  <br>
 
-The other purpose of ALG is to act as a repository testbed for & between two other distributions and to act as a Vanilla Arch distribution.
-
-Building will yield ALG Flagship ISO. Size as of 15th April is 1.8 GiB. We will be removing certain preloaded software in further releases.
-
-You can skip the hassle of building by directly downloading from ALG's <a href="https://sourceforge.net/projects/arch-linux-gui/">official page</a>.
+You can Download the ISOs from ALG's <a href="https://sourceforge.net/projects/arch-linux-gui/">official sourceforge page</a>.
