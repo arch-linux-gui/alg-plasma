@@ -137,8 +137,7 @@ os-prober
 #Browser
 firefox
 
-#AUR & Installers
-yay
+#Installers
 discover
 packagekit-qt5
 
@@ -150,7 +149,6 @@ ttf-roboto
 
 #Video
 vlc
-zoom
 
 #Icons
 tela-circle-icon
