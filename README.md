@@ -6,11 +6,13 @@ unix-name: arch-linux-gui
 
 <h3>ALG = Arch Linux GUI</h3>
 GUI = Graphical User Interface<br>
-This project aims to help people install Arch Linux with a graphical installer, and provide them with a ready to use Arch Linux environment. The project currently features the KDE Plasma desktop with 3 editions.
+This project aims to help people install Arch Linux with a graphical installer, and provide them with a ready to use Arch Linux environment. The project currently features the KDE Plasma desktop with 5 editions.
 <ul>
-  <li>ALG Pure</li>
-  <li>ALG Minimal</li>
-  <li>ALG (The Flagship)</li>
+  <li>ALG Plasma Flagship</li>
+  <li>ALG Gnome Flagship</li>
+  <li>ALG Plasma Mininmal</li>
+  <li>ALG Plasma Pure</li>
+  <li>ALG Gnome Pure</li>
  </ul>
  <br>
 
