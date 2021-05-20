@@ -113,6 +113,7 @@ xorg
 sddm
 bash-completion
 networkmanager
+blueberry
 linux-headers
 base-devel
 
