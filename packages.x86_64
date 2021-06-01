@@ -143,6 +143,9 @@ okular
 ttf-ms-fonts
 ttf-roboto
 
+#printing
+cups
+
 #Video
 vlc
 
