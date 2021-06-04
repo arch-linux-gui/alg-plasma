@@ -3,8 +3,8 @@
 
 iso_name="archlinux-gui-plasma"
 iso_label="ARCH_GUI_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_publisher="DemonKiller"
+iso_application="Arch Linux GUI Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
