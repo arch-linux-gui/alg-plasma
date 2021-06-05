@@ -110,6 +110,7 @@ bash-completion
 networkmanager
 linux-headers
 base-devel
+pacman-contrib
 
 #System Utilities for ALG
 konsole
