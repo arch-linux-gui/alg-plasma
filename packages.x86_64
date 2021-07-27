@@ -112,7 +112,7 @@ linux-headers
 base-devel
 pacman-contrib
 
-#System Utilities for ALG
+#System Utilities for ALG Plasma
 konsole
 kate
 dolphin

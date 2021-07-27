@@ -35,3 +35,12 @@ ln -sv /usr/lib/systemd/system/cups.service printer.target.wants/cups.service
 ln -sv /usr/lib/systemd/system/cups.socket sockets.target.wants/cups.socket
 
 ln -sv /usr/lib/systemd/system/cups.path multi-user.target.wants/cups.path
+
+tput setaf 2
+echo "Enabling Bluetooth..."
+tput sgr0
+
+ln -sv /usr/lib/systemd/system/bluetooth.service dbus-org.bluez.service
+
+mkdir bluetooth.target.wants
+ln -sv /usr/lib/systemd/system/bluetooth.service bluetooth.target.wants/bluetooth.service
