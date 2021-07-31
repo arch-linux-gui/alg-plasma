@@ -102,8 +102,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE Plasma
-plasma
+#Arch Linux GUI KDE Plasma Core
 xorg
 sddm
 bash-completion
@@ -111,6 +110,10 @@ networkmanager
 linux-headers
 base-devel
 pacman-contrib
+
+#ALG Plasma
+plasma
+alg-plasma-settings
 
 #System Utilities for ALG Plasma
 konsole
@@ -133,6 +136,7 @@ os-prober
 
 #Browser
 firefox
+alg-firefox-settings
 
 #Installers
 discover
