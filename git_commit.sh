@@ -1,21 +1,24 @@
 #!/bin/bash
 #set -e
-# change a commit comment
-# git commit --amend -m "more info"
-# git push --force origin
+
+#DemonKiller's Git Commit Script
+#Repo must be cloned to local for this to work
 
 
 # checking if I have the latest files from github
+tput setaf 4
 echo "Checking for newer files online first"
+tput sgr0
 git pull
+
 
 # Below command will backup everything inside the project folder
 git add --all .
 
 # Give a comment to the commit if you want
-echo "####################################"
-echo "Write your commit comment!"
-echo "####################################"
+tput setaf 1
+echo "Write Commit Below:"
+tput sgr0
 
 read input
 
@@ -27,7 +30,6 @@ git commit -m "$input"
 
 git push
 
-
-echo "################################################################"
-echo "###################    Git Push Done      ######################"
-echo "################################################################" 
+tput setaf 2
+echo "D O N E!"
+tput sgr0
