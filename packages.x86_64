@@ -131,7 +131,7 @@ neofetch
 #Installer
 grub
 calamares
-alg-calamares-config
+alg-plasma-cala-config
 os-prober
 
 #Browser
