@@ -2,4 +2,4 @@
 
 mv -v /etc/mkinitcpio.d/alg /etc/mkinitcpio.d/linux.preset
 
-rm alg-preset
+rm /usr/local/bin/alg-preset
