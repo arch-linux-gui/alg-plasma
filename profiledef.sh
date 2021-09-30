@@ -2,8 +2,8 @@
 # shellcheck disable=SC2034
 
 iso_name="archlinux-gui-plasma"
-iso_label="ARCH_GUI_$(date +%Y%m)"
-iso_publisher="DemonKiller"
+iso_label="ARCH_GUI_KDE$(date +%Y%m)"
+iso_publisher="DemonKiller <https://archlinuxgui.in>"
 iso_application="Arch Linux GUI Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
 install_dir="arch"
@@ -18,4 +18,5 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
+  ["/usr/local/bin/remove-nvidia"]="0:0:755"	
 )
