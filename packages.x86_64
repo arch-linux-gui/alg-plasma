@@ -160,3 +160,8 @@ mcmojave-cursors
 
 #AUR Helper
 paru
+
+#NVIDIA Drivers & Tools
+nvidia
+nvidia-utils
+nvidia-settings
