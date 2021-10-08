@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="archlinux-gui-plasma"
-iso_label="ARCH_GUI_KDE$(date +%Y%m)"
+iso_label="ARCH_GUI_KDE_$(date +%Y%m)"
 iso_publisher="DemonKiller <https://archlinuxgui.in>"
 iso_application="Arch Linux GUI Live/Rescue CD"
 iso_version="$(date +%Y.%m)"
