@@ -138,15 +138,15 @@ os-prober
 firefox
 alg-firefox-settings
 
-#Installers
-discover
-packagekit-qt5
-
 #Office Suite
 libreoffice-fresh
 okular
+
+#fonts
 ttf-ms-fonts
 ttf-roboto
+noto-fonts
+noto-fonts-emoji
 
 #printing
 cups
