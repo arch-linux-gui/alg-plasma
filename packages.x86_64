@@ -145,8 +145,6 @@ okular
 #fonts
 ttf-ms-fonts
 ttf-roboto
-noto-fonts
-noto-fonts-emoji
 
 #printing
 cups
