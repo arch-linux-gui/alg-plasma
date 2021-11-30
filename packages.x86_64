@@ -108,6 +108,7 @@ bash-completion
 networkmanager
 linux-headers
 base-devel
+xf86-input-libinput
 pacman-contrib
 
 #ALG Plasma
