@@ -110,6 +110,7 @@ linux-headers
 base-devel
 xf86-input-libinput
 pacman-contrib
+virtualbox-guest-utils
 
 #ALG Plasma
 plasma
