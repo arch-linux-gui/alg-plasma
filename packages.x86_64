@@ -127,6 +127,8 @@ gwenview
 filelight
 kcalc
 neofetch
+bluez-utils
+pulseaudio-bluetooth
 
 #Installer
 grub
