@@ -43,6 +43,7 @@ fi
 selection=$(get_driver)
 echo "Selection was "$selection
 if [[ $selection == "nonfree" ]]; then
+	echo "blacklist nouveau" > /usr/lib/modprobe.d/nvidia-utils.conf
 	echo "#################################"
 	echo "We keep nvidia  onboard"
 	echo "#################################"
