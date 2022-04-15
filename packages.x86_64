@@ -129,6 +129,7 @@ filelight
 kcalc
 neofetch
 bluez-utils
+packagekit-qt5
 pulseaudio-bluetooth
 
 #Installer
