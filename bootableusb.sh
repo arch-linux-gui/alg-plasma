@@ -31,7 +31,7 @@ echo "                               "
 echo "================================================================"
 echo "Making ALG bootable USB, this may take sometime...."
 cd out
-sudo dd if=archlinux-gui-plasma-$(date +%Y.%m)-x86_64.iso of=/dev/sdb status='progress'
+sudo dd if=alg-plasma-$(date +%Y.%m)-x86_64.iso of=/dev/sdb bs= 2048 status='progress'
 
 
 echo "D O N E! Your USB should be bootable now, with Arch Linux GUI."
