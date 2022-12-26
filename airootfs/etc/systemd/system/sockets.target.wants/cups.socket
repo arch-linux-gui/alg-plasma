@@ -1,1 +1,10 @@
-/usr/lib/systemd/system/cups.socket
+[Unit]
+Description=CUPS Scheduler
+PartOf=cups.service
+
+[Socket]
+ListenStream=/run/cups/cups.sock
+RemoveOnStop=on
+
+[Install]
+WantedBy=sockets.target
