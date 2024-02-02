@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux-gui-plasma"
+iso_name="alg-plasma"
 iso_label="ARCH_GUI_KDE_$(date +%Y%m)"
 iso_publisher="DemonKiller <https://archlinuxgui.in>"
 iso_application="Arch Linux GUI Live/Rescue CD"
