@@ -111,15 +111,15 @@ PlasmaCore.ColorScope {
                 }
             }
         }
-        WallpaperFader {
-            visible: config.type === "image"
-            anchors.fill: parent
-            state: loginScreenRoot.uiVisible ? "on" : "off"
-            source: wallpaper
-            mainStack: mainStack
-            footer: footer
-            clock: clock
-        }
+        // WallpaperFader {
+        //     visible: config.type === "image"
+        //     anchors.fill: parent
+        //     state: loginScreenRoot.uiVisible ? "on" : "off"
+        //     source: wallpaper
+        //     mainStack: mainStack
+        //     footer: footer
+        //     clock: clock
+        // }
 
         DropShadow {
             id: clockShadow
