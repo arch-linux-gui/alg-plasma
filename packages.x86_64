@@ -1,16 +1,20 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
+vim
+qemu-guest-agent
+pv
+linux-firmware-marvell
+bind
+bcachefs-tools
 alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
 base
-bind-tools
 broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
-crda
 cryptsetup
 darkhttpd
 ddrescue

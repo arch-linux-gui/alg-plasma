@@ -10,7 +10,6 @@ rm -vf /etc/sddm.conf.d/autologin.conf
 rm -vf /etc/polkit-1/rules.d/49-nopasswd_global.rules
 rm -vf /root/{.automated_script.sh,.zlogin}
 
-rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
-
 sed -i 's/GRUB_DISTRIBUTOR=.*/GRUB_DISTRIBUTOR="Arch"/' /etc/default/grub
-grub-mkconfig -o /boot/grub/grub.cfg
+
+rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
