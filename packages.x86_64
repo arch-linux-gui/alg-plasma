@@ -117,6 +117,7 @@ virtualbox-guest-utils
 #ALG Plasma
 plasma
 alg-plasma-settings
+alg-welcome
 
 #System Utilities for ALG Plasma
 konsole
