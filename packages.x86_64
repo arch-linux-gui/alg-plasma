@@ -1,16 +1,12 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
-vim
-qemu-guest-agent
-pv
-linux-firmware-marvell
-bind
-bcachefs-tools
 alsa-utils
 amd-ucode
 arch-install-scripts
 b43-fwcutter
 base
+bcachefs-tools
+bind
 broadcom-wl
 btrfs-progs
 clonezilla
@@ -47,6 +43,7 @@ lftp
 linux
 linux-atm
 linux-firmware
+linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
@@ -74,8 +71,10 @@ openvpn
 partclone
 parted
 partimage
+pv
 ppp
 pptpclient
+qemu-guest-agent
 reflector
 reiserfsprogs
 rp-pppoe
@@ -94,6 +93,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
+vim
 vpnc
 wireless-regdb
 wireless_tools
