@@ -133,7 +133,8 @@ kcalc
 neofetch
 bluez-utils
 packagekit-qt5
-pulseaudio-bluetooth
+pirewire-pulse
+#pulseaudio-bluetooth
 
 #Installer
 grub
