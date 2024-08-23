@@ -146,8 +146,7 @@ os-prober
 firefox
 alg-firefox-settings
 
-#Office Suite
-libreoffice-fresh
+#Office
 okular
 
 #fonts
