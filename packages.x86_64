@@ -130,7 +130,7 @@ ark
 gwenview
 filelight
 kcalc
-neofetch
+fastfetch
 bluez-utils
 packagekit-qt5
 pipewire-pulse
@@ -139,6 +139,7 @@ pipewire-pulse
 #Installer
 grub
 calamares
+custom-installer-modules
 alg-theme-cala-config
 os-prober
 
