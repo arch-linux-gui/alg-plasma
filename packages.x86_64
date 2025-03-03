@@ -10,7 +10,7 @@ bind
 broadcom-wl
 btrfs-progs
 clonezilla
-cloud-init
+#cloud-init
 cryptsetup
 darkhttpd
 ddrescue
@@ -139,7 +139,6 @@ pipewire-pulse
 #Installer
 grub
 calamares
-custom-installer-modules
 alg-theme-cala-config
 os-prober
 
@@ -166,9 +165,10 @@ tela-circle-icon
 mcmojave-cursors
 
 #AUR Helper
-paru
+yay
 
 #NVIDIA Drivers & Tools
 nvidia
 nvidia-utils
 nvidia-settings
+#custom-installer-modules
