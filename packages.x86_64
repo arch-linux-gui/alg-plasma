@@ -76,7 +76,7 @@ ppp
 pptpclient
 qemu-guest-agent
 reflector
-reiserfsprogs
+#reiserfsprogs
 rp-pppoe
 rsync
 sdparm
