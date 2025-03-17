@@ -120,6 +120,8 @@ alg-plasma-settings
 
 #ALG Apps
 alg-welcome
+alg-app-store
+alg-fastfetch-config
 
 #System Utilities for ALG Plasma
 konsole
