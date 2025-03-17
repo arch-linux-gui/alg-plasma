@@ -102,6 +102,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+lsb-release
 
 #ALG KDE Plasma Core
 xorg
@@ -122,6 +123,7 @@ alg-plasma-settings
 alg-welcome
 alg-app-store
 alg-fastfetch-config
+alg-hooks
 
 #System Utilities for ALG Plasma
 konsole
