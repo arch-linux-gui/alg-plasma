@@ -103,7 +103,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE Plasma Core
+#ALG KDE Plasma Core
 xorg
 sddm
 bash-completion
@@ -117,6 +117,8 @@ virtualbox-guest-utils
 #ALG Plasma
 plasma
 alg-plasma-settings
+
+#ALG Apps
 alg-welcome
 
 #System Utilities for ALG Plasma
