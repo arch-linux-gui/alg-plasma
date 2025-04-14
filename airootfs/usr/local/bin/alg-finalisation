@@ -14,7 +14,7 @@ sed -i 's/GRUB_DISTRIBUTOR=.*/GRUB_DISTRIBUTOR="ALG"/' /etc/default/grub
 sed -i 's/${GRUB_DISTRIBUTOR} Linux/${GRUB_DISTRIBUTOR}/' /etc/grub.d/10_linux
 
 # Remove calamares-desktop from Desktop
-find / -name "calamares.desktop" -type f -exec rm -f {} \;
+rm -f /home/liveuser/Desktop/calamares.desktop
 
 # Copy skel/.config in /root
 cp -r /etc/skel/.config /root/
