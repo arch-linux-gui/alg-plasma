@@ -19,4 +19,4 @@ rm -f /home/liveuser/Desktop/calamares.desktop
 # Copy skel/.config in /root
 cp -r /etc/skel/.config /root/
 
-rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
+rm -f /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
