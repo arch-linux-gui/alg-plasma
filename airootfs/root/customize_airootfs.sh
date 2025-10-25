@@ -1,2 +1,4 @@
-#rm -rf /usr/lib/modules-load.d/nvidia-utils.conf
-rm -rf usr/lib/modprobe.d/nvidia-utils.conf
+#!/bin/bash
+
+# Remove default plasma-localerc file
+rm -f /home/liveuser/.config/plasma-localerc

@@ -10,7 +10,7 @@ bind
 broadcom-wl
 btrfs-progs
 clonezilla
-cloud-init
+#cloud-init
 cryptsetup
 darkhttpd
 ddrescue
@@ -29,7 +29,6 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -76,7 +75,7 @@ ppp
 pptpclient
 qemu-guest-agent
 reflector
-reiserfsprogs
+#reiserfsprogs
 rp-pppoe
 rsync
 sdparm
@@ -102,8 +101,9 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+lsb-release
 
-#Arch Linux GUI KDE Plasma Core
+#ALG KDE Plasma Core
 xorg
 sddm
 bash-completion
@@ -117,7 +117,12 @@ virtualbox-guest-utils
 #ALG Plasma
 plasma
 alg-plasma-settings
+
+#ALG Apps
 alg-welcome
+alg-app-store
+alg-fastfetch-config
+alg-hooks
 
 #System Utilities for ALG Plasma
 konsole
@@ -130,9 +135,8 @@ ark
 gwenview
 filelight
 kcalc
-neofetch
+fastfetch
 bluez-utils
-packagekit-qt5
 pipewire-pulse
 #pulseaudio-bluetooth
 
@@ -165,9 +169,13 @@ tela-circle-icon
 mcmojave-cursors
 
 #AUR Helper
-paru
+yay
 
 #NVIDIA Drivers & Tools
 nvidia
 nvidia-utils
 nvidia-settings
+#custom-installer-modules
+
+alg-set-once
+alg-logo

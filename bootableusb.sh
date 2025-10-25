@@ -34,5 +34,5 @@ cd out
 sudo dd if=alg-plasma-$(date +%Y.%m)-x86_64.iso of=/dev/sdb status='progress'
 
 
-echo "D O N E! Your USB should be bootable now, with Arch Linux GUI."
+echo "D O N E! Your USB should be bootable now, with ALG."
 echo "Thank YOU!"
