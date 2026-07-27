@@ -115,7 +115,7 @@ pacman-contrib
 virtualbox-guest-utils
 
 #ALG Plasma
-plasma
+plasma-meta
 alg-plasma-settings
 
 #ALG Apps
