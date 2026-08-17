@@ -19,4 +19,7 @@ rm -f /home/liveuser/Desktop/calamares.desktop
 # Copy skel/.config in /root
 cp -r /etc/skel/.config /root/
 
+# Sync pacman databases
+pacman -Syy --noconfirm
+
 rm -f /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}

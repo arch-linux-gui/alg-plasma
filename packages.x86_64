@@ -115,7 +115,7 @@ pacman-contrib
 virtualbox-guest-utils
 
 #ALG Plasma
-plasma
+plasma-meta
 alg-plasma-settings
 
 #ALG Apps
@@ -172,7 +172,7 @@ mcmojave-cursors
 yay
 
 #NVIDIA Drivers & Tools
-nvidia
+nvidia-open
 nvidia-utils
 nvidia-settings
 #custom-installer-modules
