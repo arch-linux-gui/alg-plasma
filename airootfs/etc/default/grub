@@ -43,7 +43,7 @@ GRUB_COLOR_NORMAL="white/black"
 GRUB_COLOR_HIGHLIGHT="light-cyan/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-GRUB_BACKGROUND="/usr/share/wallpapers/real-wood/real-wood.jpg"
+GRUB_BACKGROUND="/usr/share/wallpapers/real-wood/background.png"
 #GRUB_THEME=
 
 # Uncomment to get a beep at GRUB start
